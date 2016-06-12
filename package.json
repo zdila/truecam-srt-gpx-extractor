@@ -1,0 +1,16 @@
+{
+  "name": "truecam-srt-gpx-extractor",
+  "version": "0.0.1",
+  "description": "Creates GPX from TrueCam video subtitles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Ždila",
+  "license": "BSD",
+  "dependencies": {
+    "moment": "^2.13.0",
+    "subtitles-parser": "0.0.2",
+    "xmlbuilder": "^8.2.2"
+  }
+}
